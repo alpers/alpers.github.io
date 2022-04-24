@@ -1,4 +1,32 @@
 _site/
 .sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.bundle/
+Gemfile.lock
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+# Win files
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+Desktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+# Root Files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._*
+# AFP files
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
